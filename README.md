@@ -11,8 +11,9 @@ The Dataset: Survey_Data.xlsx
 	
  * Number of Variables: 11
  * Likert Scale used: 1- 4
- * Worksheet WO_Admin contains total survey responses (2533).
- * Worksheet Cluster contains the results of PCSD3 clustering over the dataset.	
+ * Worksheet W_Admin contains overall survey responses (2620).
+ * Worksheet WO_Admin contains survey responses excluding administrator ctegory (2533).
+ * Worksheet Cluster contains the results of PCSD3 clustering over WO_Admin datasheet.	
 *****************************
 
 List of Variables with their used abbreviations:
